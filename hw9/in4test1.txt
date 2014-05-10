@@ -1,0 +1,9 @@
+
+
+================================
+DNA fragment Search
+================================
+
+Enter DNA fragment 
+Enter target file name 
+

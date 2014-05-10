@@ -1,0 +1,207 @@
+
+
+================================
+DNA fragment Search
+================================
+
+Enter DNA fragment 
+Enter target file name >Sample:050-homo-sapien-dRna-66748
+TTCGGGTAGACGTGGGTGAGGACCACCGGCATGCCGAAGGACTTACCTACTACGCCCTCAGCTT
+
+Number of hits: 7
+**Hit at location 9
+**Hit at location 21
+**Hit at location 24
+**Hit at location 40
+**Hit at location 44
+**Hit at location 48
+**Hit at location 51
+
+>Sample:630-homo-sapien-dRna-40084
+AATCCTGATTCTTATCCGAAGTAGCCATGATGACCCGACCTTGATTTACTAACAATTAACAGCCATTGTACAT
+
+Number of hits: 6
+**Hit at location 32
+**Hit at location 37
+**Hit at location 47
+**Hit at location 51
+**Hit at location 58
+**Hit at location 69
+
+>Sample:551-homo-sapien-dRna-74976
+GCGAACGTGGAACTAGTTGTAGCGACCTCCCATCCTTACCACTCGTATAGACTTATGC
+
+Number of hits: 6
+**Hit at location 4
+**Hit at location 11
+**Hit at location 24
+**Hit at location 37
+**Hit at location 40
+**Hit at location 50
+
+>Sample:892-homo-sapien-dRna-821
+CGGCATGACTGGGCTCTATATGACACAATTTGCCACAGCCCAACCGTGGCGCAAGACGAGCG
+
+Number of hits: 6
+**Hit at location 7
+**Hit at location 22
+**Hit at location 24
+**Hit at location 34
+**Hit at location 42
+**Hit at location 55
+
+>Sample:042-homo-sapien-dRna-76229
+GCGACTAGTCTGAACTTACCCAGACTCCCAGTCTGTAGTGAATAAGGTGAAAAGATTTGGTTTGCCTCAAACATCC
+
+Number of hits: 5
+**Hit at location 3
+**Hit at location 13
+**Hit at location 17
+**Hit at location 23
+**Hit at location 70
+
+>Sample:689-homo-sapien-dRna-28444
+GCGACGCCGCGCGGACCTCTGGAAGACGGTAAGACAGTCTGCGGAAACTCATAATGAGGGCGAAGCAG
+
+Number of hits: 5
+**Hit at location 3
+**Hit at location 14
+**Hit at location 25
+**Hit at location 33
+**Hit at location 46
+
+>Sample:037-homo-sapien-dRna-73537
+AGAGATCTACGCCCGGAATTGACATAGGCATCATAAACTCTTTGGCGACCTCCGCA
+
+Number of hits: 4
+**Hit at location 8
+**Hit at location 21
+**Hit at location 36
+**Hit at location 47
+
+>Sample:627-homo-sapien-dRna-41312
+TGATAGTCCTGCACGATTTAACTACCCGCTCGCTCCCGGTCTGCAGTTCATCCCCTTGCGCGTTCGGTTTAGCGCC
+
+Number of hits: 3
+**Hit at location 12
+**Hit at location 20
+**Hit at location 23
+
+>Sample:483-homo-sapien-dRna-75776
+CCGATCTGATGCTCTTGTAAAACAGCTAATGCATCTGACGTCCATGTCCGTCGGCTAGTATCCTAGAGGCGCTACCGAT
+
+Number of hits: 3
+**Hit at location 21
+**Hit at location 37
+**Hit at location 73
+
+>Sample:184-homo-sapien-dRna-53195
+CTATAACTCGATCACCGAGTCCTGTCGCCTCTACAATTTGCTCGTGATGGA
+
+Number of hits: 3
+**Hit at location 5
+**Hit at location 13
+**Hit at location 32
+
+>Sample:735-homo-sapien-dRna-74548
+CCCTCGGCAAACGTGTCACCCTGTATGATAGGCACT
+
+Number of hits: 3
+**Hit at location 10
+**Hit at location 17
+**Hit at location 33
+
+>Sample:128-homo-sapien-dRna-70688
+CCAAGTGTGACATCGTTCTTACGGAAG
+
+Number of hits: 2
+**Hit at location 9
+**Hit at location 20
+
+>Sample:210-homo-sapien-dRna-66342
+TCCACGGGCAGGAGCAGTATAATCAC
+
+Number of hits: 2
+**Hit at location 3
+**Hit at location 24
+
+>Sample:010-homo-sapien-dRna-9016
+CGATCCCTTCTGGGGGATCGTGTTTGCCTCCGACTCGGAC
+
+Number of hits: 2
+**Hit at location 32
+**Hit at location 38
+
+>Sample:383-homo-sapien-dRna-30886
+GCGTACCTGTGGTATAAG
+
+Number of hits: 1
+**Hit at location 4
+
+>Sample:407-homo-sapien-dRna-1474
+TGCCGCTAGGACAAGGCTTAAT
+
+Number of hits: 1
+**Hit at location 10
+
+>Sample:622-homo-sapien-dRna-27828
+GTAATGTCCCTTCAAATTCAATTACT
+
+Number of hits: 1
+**Hit at location 23
+
+>Sample:788-homo-sapien-dRna-49797
+TGCGCCATCAAGACCAATCAAAG
+
+Number of hits: 1
+**Hit at location 12
+
+>Sample:626-homo-sapien-dRna-64524
+TACTATATTTAATCTTGTGAGCC
+
+Number of hits: 1
+**Hit at location 1
+
+>Sample:614-homo-sapien-dRna-33589
+CTCTTTCTCTTCTCGTTCGCTGAGTATCTGCGCGCACGTTCAGGTT
+
+Number of hits: 1
+**Hit at location 35
+
+>Sample:130-homo-sapien-dRna-14904
+CCCCCAGCTAGCTGGCAGTGCACCAAGTTGTAAGCTAAGTAGATTGGTTCTGTGATGAATGTTATGTT
+
+Number of hits: 1
+**Hit at location 21
+
+>Sample:683-homo-sapien-dRna-61041
+GAATTGCCCGGACTCGCCGGATCAAATTGATGAGCGT
+
+Number of hits: 1
+**Hit at location 11
+
+>Sample:140-homo-sapien-dRna-3708
+TCCGTACTCGTTCGCGAGG
+
+Number of hits: 1
+**Hit at location 5
+
+>Sample:899-homo-sapien-dRna-43024
+TTCACTCTCGGGTCGGGATTTGCGTCGTCGTGCGGTTAAGGG
+
+Number of hits: 1
+**Hit at location 3
+
+>Sample:418-homo-sapien-dRna-36353
+CCACGTGGGGCCTGTCTCTCAAGCCGA
+
+Number of hits: 1
+**Hit at location 2
+
+
+
+
+
+
+*******  DATABASE HITS  *********
+Results for fragment: AC
