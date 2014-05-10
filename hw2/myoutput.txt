@@ -1,0 +1,33 @@
+
+
+           Solid Volume Computational Program
+           ==================================
+
+BOX------------------------------------------------------
+ Please enter the lengths of the sides of the box.
+ A box with sides of 0.0000 cm, 0.0000 cm, and 0.0000 cm
+ will have a volume of:
+
+    0.000000 cm-cubed or 0.00000e+00 in-cubed.
+
+CYLINDER-------------------------------------------------
+ Please enter the radius of the base and the height.
+ A cylinder with a radius of 0.0000 cm and a height of
+ 0.0000 cm will have a volume of:
+
+    0.000000 cm-cubed or 0.00000e+00 in-cubed.
+
+FUSTRUM--------------------------------------------------
+ Please enter the small radius, large radius, and height of the fustrum.
+ A fustrum with a small radius of 0.0000 cm, a large radius
+ of 0.0000 cm, and height of 0.0000 cm will have a volume of:
+
+    0.000000 cm-cubed or 0.00000e+00 in-cubed.
+
+ICOSOHEDRON----------------------------------------------
+ Please enter the length of the edge of the icosohedron.
+ An icosohedron with a length of 0.0000 cm will have a volume of:
+
+    0.000000 cm-cubed or 0.00000e+00 in-cubed.
+
+Goodbye.
